@@ -1,0 +1,1 @@
+<?php $this->extend('layout_dashboard/wrapper'); ?>
